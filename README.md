@@ -26,3 +26,7 @@ You'll need to write a Python script that fetches weather data from the OpenWeat
 *The final output:*
 
 A Python script and a visualization dashboard showcasing the weather data. This task is useful for anyone interested in data science, web development, IoT, business intelligence, or environmental monitoring.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/afc8db87-6a9d-4066-a3cf-16f092c6507e)
